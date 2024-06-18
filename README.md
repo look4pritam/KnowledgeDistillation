@@ -1,2 +1,1 @@
-# KnowledgeDistillation
-KnowledgeDistillation
+# Knowledge Distillation
